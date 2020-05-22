@@ -1,5 +1,5 @@
 # Interesting-InfoSec-stuff
-Centralize the ressources i'm interested in / haven't read yet about Information Security
+Centralize the ressources i'm interested in / using daily or haven't read yet about Information Security, mainly
 
 ## Index
 * [Windows](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/systems/Windows/windows.md)
