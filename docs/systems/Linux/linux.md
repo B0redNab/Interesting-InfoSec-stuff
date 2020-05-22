@@ -1,2 +1,3 @@
 # Linux
-* [nixCraft](https://www.cyberciti.biz/)
+* Blogs/
+  * [nixCraft](https://www.cyberciti.biz/)
