@@ -1,5 +1,5 @@
 # Challenges
-* Sites/
+* :globe_with_meridians: Websites :globe_with_meridians:
   * [Hack The Box](https://www.hackthebox.eu/)
   * [VulnHub](https://www.vulnhub.com/)
   * [Root Me](https://www.root-me.org/)
