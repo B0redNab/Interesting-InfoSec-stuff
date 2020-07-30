@@ -4,7 +4,6 @@
 Link to the wargame: [Natas](https://overthewire.org/wargames/natas/)
 
 ## Table of contents
-* Level 0
 * Level 0 -> Level 1
 * Level 1 -> Level 2
 * Level 2 -> Level 3
@@ -43,5 +42,8 @@ Link to the wargame: [Natas](https://overthewire.org/wargames/natas/)
 <br/>
 
 
-
-### Level 0
+### Level 0 -> Level 1
+![](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/screens/Level0.PNG?raw=true)
+* Open ```http://natas0.natas.labs.overthewire.org/``` <br/>
+***Username:** natas0 **Password:** natas0*
+* Open the web console of your browser, you'll find the password ```gtVrDuiDfck831PqWsLEZy5gyDz1clto``` in the code
