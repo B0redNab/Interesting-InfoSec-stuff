@@ -4,6 +4,7 @@
 Link to the wargame: [Natas](https://overthewire.org/wargames/natas/)
 
 ## Table of contents
+* [Level 0](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-0)
 * Level 0 -> Level 1
 * Level 1 -> Level 2
 * Level 2 -> Level 3
