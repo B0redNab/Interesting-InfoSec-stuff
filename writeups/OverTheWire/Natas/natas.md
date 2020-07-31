@@ -1,5 +1,5 @@
 # Natas
-*Personal writeup of this wargame*
+*Personal writeup/notes of this wargame*
 
 Link to the wargame: [Natas](https://overthewire.org/wargames/natas/)
 
@@ -7,7 +7,7 @@ Link to the wargame: [Natas](https://overthewire.org/wargames/natas/)
 * [Level 0](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-0)
 * [Level 0 -> Level 1](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-0---level-1)
 * [Level 1 -> Level 2](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-1---level-2)
-* Level 2 -> Level 3
+* [Level 2 -> Level 3](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-2---level-3)
 * Level 3 -> Level 4
 * Level 4 -> Level 5
 * Level 5 -> Level 6
@@ -126,10 +126,18 @@ if(array_key_exists("submit", $_POST)) {
 }
 ?>
 ```
-So your input will be:
+In order, your input will be:
 1. Converted to hexa
 1. Reverse, because of the ```strrev``` function
 1. And encode in base64
 
 
-We have the input to match: ```3d3d516343746d4d6d6c315669563362```
+The input to match is: ```$encodedSecret = 3d3d516343746d4d6d6c315669563362```<br/>
+So you just need to follow previous step (and decode instead of encode of course):
+1. ```3d3d516343746d4d6d6c315669563362``` decoded in hexa is ```==QcCtmMml1ViV3b```
+1. ```==QcCtmMml1ViV3b``` inverted is ```b3ViV1lmMmtCcQ==```
+1. ```b3ViV1lmMmtCcQ==``` decoded in base64 is ```oubWYf2kBq```
+
+
+Submit it to get the password ```W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl```
+### Level 8 -> Level 9
