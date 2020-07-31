@@ -8,11 +8,11 @@ Link to the wargame: [Natas](https://overthewire.org/wargames/natas/)
 * [Level 0 -> Level 1](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-0---level-1)
 * [Level 1 -> Level 2](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-1---level-2)
 * [Level 2 -> Level 3](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-2---level-3)
-* Level 3 -> Level 4
-* Level 4 -> Level 5
-* Level 5 -> Level 6
-* Level 6 -> Level 7
-* Level 7 -> Level 8
+* [Level 3 -> Level 4](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-3---level-4)
+* [Level 4 -> Level 5](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-4---level-5)
+* [Level 5 -> Level 6](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-5---level-6)
+* [Level 6 -> Level 7](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-6---level-7)
+* [Level 7 -> Level 8](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/writeups/OverTheWire/Natas/natas.md#level-7---level-8)
 * Level 8 -> Level 9
 * Level 9 -> Level 10
 * Level 10 -> Level 11
