@@ -1,10 +1,10 @@
 # Advent of Cyber
-*Personal writeup/notes of this room*
+*Personal writeup/notes of this room for keeping a "methodology's history", direct answer won't be post*
 
 
 ## Table of contents
 * Task 6 - Day 1
-
+* Task 7 - Day 2
 <br/>
 <br/>
 
@@ -25,6 +25,15 @@
 
 #### Solve
 Register a new user (i went with **qwer**) and login with it. Once done open the web console, you should notice a cookie ```authid```, *its value is **base64 encoded***<br/>
-Once ```cXdlcnY0ZXI5bGwxIXNz```decocded (i used ```base64 -d``` cmd) i got ```qwer<11 other char>```<br/><br/>
+Once ```cXdlcnY0ZXI5bGwxIXNz```decoded (i used ```base64 -d``` cmd) i got ```qwer<11 other char>```<br/><br/>
 Registered a new user (**qwer2**) and repeat the process. Once decoded i got ```qwer2<11 other char>``` **with the 11 chars being the same for the 2 users**.<br/><br/>
 We musst retrieve some data hold by the user ```mcinventory```, so encode ```mcinventory<11 other char>``` to get its base64 encoded version we'll use to access the desired data. Just replace the ```authid``` value with the new base64's one and refresh the page to get access to the desired information.
+
+<br/>
+
+### [Day 2] Arctic Forum
+
+#### Solve
+* Checked the code with the web's console, looking for comments that may include sensitive infos => didn't find anything usefull
+* Used ```dirb http://<your-machine_ip>:3000```<br/>
+Found an interesting page containing a **usefull comment** that will help you solve the chall
