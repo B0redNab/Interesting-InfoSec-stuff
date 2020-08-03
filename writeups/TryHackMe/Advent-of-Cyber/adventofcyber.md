@@ -37,7 +37,7 @@ We musst retrieve some data hold by the user ```mcinventory```, so encode ```mci
 
 #### Solve
 * Checked the code with the web's console, looking for comments that may include sensitive infos => didn't find anything usefull
-* Used ```dirb http://<your-machine_ip>:3000```<br/>
+* Used ```dirb http://<your_machine_ip>:3000```<br/>
 Found an interesting page containing a **usefull comment** that will help you solve the chall
 
 <br/>
@@ -81,3 +81,8 @@ Another method to identify the hash algorithm is ```hashid```:<br/>
 <br/>
 
 ### [Day 4] Training
+For this chall you'll need to connect to your machine w/ SSH<br/>
+```ssh <username>@<your_machine_ip>
+
+#### Solve
+
