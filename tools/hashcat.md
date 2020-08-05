@@ -19,5 +19,5 @@ Full list of hashcat modes [here](https://hashcat.net/wiki/doku.php?id=example_h
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```6 = Hybrid (Worldlist + Mask)```<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```7 = Hybrid (Mask + Wordlist)```<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thoses 2 are the same, in a case you'll use a wordlist and append a mask to the wordlist content. And in the other case you'll prepend a mask to it<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex: ``` ... -a 6 example.dict ?d?d?d?d``` => ```passwordXXXX```<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` ... -a 7 ?d?d?d?d example.dict``` => ```XXXXpassword```<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex: ```... -a 6 example.dict ?d?d?d?d``` => ```passwordXXXX```<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```... -a 7 ?d?d?d?d example.dict``` => ```XXXXpassword```<br/>
