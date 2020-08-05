@@ -32,5 +32,5 @@ Once you've run an exploit, ideally it'll give you either a regular command shel
 ```shell``` will start an interactive shell on the remote host.<br/>
 ```search``` to find files on the remote host.<br/>
 ```cat``` to display the content of a file.<br/>
-```background``` will put your meterpreter shell in background, *to return to the meterpreter shell* ```session -i <session_id>```
+```background``` will put your meterpreter shell in background, *to return to the meterpreter shell* ```session -i <session_id>```<br/>
 ```clearev``` will clear the **Application, System, and Security logs** on a **Windows system**.
