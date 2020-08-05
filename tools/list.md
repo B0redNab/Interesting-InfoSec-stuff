@@ -17,5 +17,6 @@
 #### Hash cracking<br/>
 * ```hashid```&nbsp;&nbsp;&nbsp;&nbsp;Identify hash used to encrypt data, with ```-m``` it'll return the hastcat mode
 * ```hashcat```&nbsp;&nbsp;&nbsp;&nbsp;Password recovery tool
+* ```John The Reaper```
 #### Pentest framework<br/>
 * ```metasploit```
