@@ -14,6 +14,11 @@
 * ```Burp```
 #### Web vulnerability scanner<br/>
 * ```Nikto```
+#### SQL Injection<br/>
+* ```sqlmap```<br/>
+*Sometimes it's not possible to use tools to automate SQL injection, so you'll need to know how to test manually if a webapp if vulnerable, cf [OWASP WebSec testing guide](https://owasp.org/www-project-web-security-testing-guide/stable/)*
+<br/>
+
 #### Hash cracking<br/>
 * ```hashid```&nbsp;&nbsp;&nbsp;&nbsp;Identify hash used to encrypt data, with ```-m``` it'll return the hastcat mode
 * ```hashcat```&nbsp;&nbsp;&nbsp;&nbsp;Password recovery tool
