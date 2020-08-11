@@ -25,6 +25,11 @@
 * ```John The Reaper```
 #### Pentest framework<br/>
 * ```metasploit```
-#### OS<br/>
+
+<br/>
+
+### OS <br/>
+* ```impacket```&nbsp;&nbsp;&nbsp;&nbsp;Collection of usefull windows scripts available [here](https://github.com/SecureAuthCorp/impacket)
+#### Samba<br/>
 * ```smbmap```&nbsp;&nbsp;&nbsp;&nbsp;Enumerate [samba](https://www.samba.org/samba/docs/SambaIntro.html) share drives across an entire domain
 * ```smbclient```&nbsp;&nbsp;&nbsp;&nbsp;Similar to ```smbmap``` but allows you to have a **interactive prompt**
