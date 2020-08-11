@@ -25,3 +25,6 @@
 * ```John The Reaper```
 #### Pentest framework<br/>
 * ```metasploit```
+#### OS<br/>
+* ```smbmap```&nbsp;&nbsp;&nbsp;&nbsp;Enumerate [samba](https://www.samba.org/samba/docs/SambaIntro.html) share drives across an entire domain
+* ```smbclient```&nbsp;&nbsp;&nbsp;&nbsp;Similar to ```smbmap``` but allows you to have a **interactive prompt**
