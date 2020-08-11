@@ -5,6 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```-H <host_IP>```<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```-x <cmd>```, assume you have the permissions to do it w/ the credentials provided, combined w/ ```--mode <cmd_mode>``` that can be either
 ```wmi```(**default**) or ```psexec```<br/>
+*NB: provide the ```<cmd>``` in **double quotes***<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```-s <share>``` to specify a share (default is ```C$```)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```-d <domain>``` to specify the doamin name<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```--download <file_path>``` download a file from the remote system (ex: "C$\temp\pass.txt")<br/>
