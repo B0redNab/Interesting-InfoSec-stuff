@@ -4,3 +4,4 @@
 
 * Documentation
   * [Spotting the Adversary with Windows Event Log Monitoring](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/systems/Windows/Spotting-the-Adversary-with-Windows-Event-Log-Monitoring.pdf)
+  * [Windows Forensic Analysis SANS Poster](https://www.sans.org/security-resources/posters/windows-forensic-analysis/170/download)
