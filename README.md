@@ -10,3 +10,4 @@ Centralize the ressources i'm interested in / using daily or haven't read yet ab
 * :dart: [Challenges / training](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/challenges/challenges-websites.md) :dart:
 * [News & podcasts](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/news/news.md)
 * :scroll: [Mind maps](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/mindmaps/mindmaps.md) :scroll:
+* :books: [Books reading list](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/books/reading-list.md) :books:
