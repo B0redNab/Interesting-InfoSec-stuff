@@ -7,3 +7,5 @@
 * ```Unauthorised Access: Physical Penetration Testinf for IT Security Teams```, Wil Allsopp & Kevin Mitnick
 * ```Influence: The Psychology of Persuasion```, Robert B. Cialdini
 * ```Social Engineering: The Science of Human Hacking```, Christopher Hadnagy
+* ```Black Hat Python: Python Programming for Hackers and Pentesters```, Justin Seitz
+* ```Gray Hat Python - Python Programming for Hackers and Reverse Engineers```, Justin Seitz
