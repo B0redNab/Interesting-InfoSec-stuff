@@ -3,7 +3,8 @@
 <br/>
 
 ## Conferences
-*
+* [Irongeek](https://www.irongeek.com/)
+* [Administraitor](https://administraitor.video/)
 
 <br/>
 
