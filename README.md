@@ -7,6 +7,7 @@ Centralize the ressources i'm interested in / using daily or haven't read yet ab
 ## Index
 * [Windows](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/systems/Windows/windows.md)
 * [Linux](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/systems/Linux/linux.md)
+* [Privilege escalation](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/priv-esc/priv-esc.md)
 * :dart: [Challenges / training](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/challenges/challenges-websites.md) :dart:
 * [News & podcasts](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/news/news.md)
 * :microphone: [Conferences & youtube](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/vids/conferences-and-yt-channels.md) :microphone:
