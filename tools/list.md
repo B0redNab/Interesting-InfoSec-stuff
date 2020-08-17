@@ -21,10 +21,10 @@
 
 #### Hash cracking<br/>
 * ```hashid```&nbsp;&nbsp;&nbsp;&nbsp;Identify hash used to encrypt data, with ```-m``` it'll return the hastcat mode
-* ```hashcat```&nbsp;&nbsp;&nbsp;&nbsp;Password recovery tool
-* ```John The Reaper```
+* [```hashcat```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/hashcat.md)&nbsp;&nbsp;&nbsp;&nbsp;Password recovery tool
+* [```John The Reaper```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/JohnTheReaper.md)
 #### Pentest framework<br/>
-* ```metasploit```
+* [```metasploit```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/metasploit.md)
 
 <br/>
 
@@ -34,5 +34,5 @@
 #### Linux <br/>
 * [```tmux```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/txmux.md)
 #### Samba<br/>
-* ```smbmap```&nbsp;&nbsp;&nbsp;&nbsp;Enumerate [samba](https://www.samba.org/samba/docs/SambaIntro.html) share drives across an entire domain
-* ```smbclient```&nbsp;&nbsp;&nbsp;&nbsp;Similar to ```smbmap``` but allows you to have a **interactive prompt**
+* [```smbmap```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/smbmap.md)&nbsp;&nbsp;&nbsp;&nbsp;Enumerate [samba](https://www.samba.org/samba/docs/SambaIntro.html) share drives across an entire domain
+* [```smbclient```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/smbclient.md)&nbsp;&nbsp;&nbsp;&nbsp;Similar to ```smbmap``` but allows you to have a **interactive prompt**
