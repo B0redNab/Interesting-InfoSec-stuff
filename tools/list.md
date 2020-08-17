@@ -29,7 +29,7 @@
 <br/>
 
 ### OS <br/>
-* ```impacket```&nbsp;&nbsp;&nbsp;&nbsp;Collection of usefull windows scripts available [here](https://github.com/SecureAuthCorp/impacket)
+* [```impacket```](https://github.com/SecureAuthCorp/impacket)&nbsp;&nbsp;&nbsp;&nbsp;Collection of usefull windows scripts
 
 #### Linux <br/>
 * [```tmux```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/txmux.md)
