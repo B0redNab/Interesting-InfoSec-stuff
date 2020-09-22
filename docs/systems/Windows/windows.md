@@ -4,6 +4,7 @@
 
 * Documentation
   * [Spotting the Adversary with Windows Event Log Monitoring](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/systems/Windows/Spotting-the-Adversary-with-Windows-Event-Log-Monitoring.pdf)
+  * [ Cybersecurity Advisory - Technical approces to uncover malicious activity](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/docs/systems/Windows/AA20-245A-Joint_CSA-Technical_Approaches_to_Uncovering_Malicious_Activity_508.pdf)
   * [Windows Forensic Analysis SANS Poster](https://www.sans.org/security-resources/posters/windows-forensic-analysis/170/download)
   * [Privileges escalation](https://www.fuzzysecurity.com/tutorials/16.html)
   * [Best Practices for securing AD](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
