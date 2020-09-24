@@ -1,6 +1,6 @@
 # List of tools<br/>
 *A list to keep "track" of tool(s) i discovered / i'm discovering thanks to challenge's website / wargame / CTFs*<br/>
-## Already known
+## Already "known"
 * ```nmap```
 * ```nc```
 * ```ZAP```
