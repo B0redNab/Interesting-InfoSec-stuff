@@ -9,3 +9,4 @@
   * [Privileges escalation](https://www.fuzzysecurity.com/tutorials/16.html)
   * [Best Practices for securing AD](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
   * [RDP logging investigation](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/)
+  * [Bypass Win10 GPO](https://medium.com/tenable-techblog/bypass-windows-10-user-group-policy-and-more-with-this-one-weird-trick-552d4bc5cc1b)
