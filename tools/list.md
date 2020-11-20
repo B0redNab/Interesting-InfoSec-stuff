@@ -30,6 +30,7 @@
 
 ### OS <br/>
 * [```impacket```](https://github.com/SecureAuthCorp/impacket)&nbsp;&nbsp;&nbsp;&nbsp;Collection of usefull windows scripts
+* ```gpp-decrypt```&nbsp;&nbsp;&nbsp;&nbsp;Retrieve password stored in GPO (```cpassword``` field value)
 
 #### Linux<br/>
 * [```tmux```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/txmux.md)
