@@ -8,7 +8,7 @@
 ## Discovering<br/>
 ### Web <br/>
 #### Web crawler <br/>
-* ```gobuster```
+* [```gobuster```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/gobuster.md)
 * ```dirb```
 * ```dirbuster```
 * ```Burp```
@@ -36,6 +36,7 @@
 * [```tmux```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/txmux.md)
 * [```find```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/find.md)
 * [```vim```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/vim.md)
+* [```searchsploit```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/searchsploit.md)
 #### Samba<br/>
 * [```smbmap```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/smbmap.md)&nbsp;&nbsp;&nbsp;&nbsp;Enumerate [samba](https://www.samba.org/samba/docs/SambaIntro.html) share drives across an entire domain
 * [```smbclient```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/smbclient.md)&nbsp;&nbsp;&nbsp;&nbsp;Similar to ```smbmap``` but allows you to have a **interactive prompt**
