@@ -7,6 +7,9 @@ Usefull flags:<br/>
 &nbsp;&nbsp;&nbsp;```-perm 644``` will return files with this **exact permissions**<br/>
 &nbsp;&nbsp;&nbsp;```-perm -644``` will return files with, **at least**, permissions you've specified<br/>
 &nbsp;&nbsp;&nbsp;```-perm /644``` will return files that match **any** of the permissions you've set.<br/>
+&nbsp;&nbsp;&nbsp;```-perm /4000``` will return files with SUID set<br/>
+&nbsp;&nbsp;&nbsp;```-perm /2000``` will return files with GUID set<br/>
+&nbsp;&nbsp;&nbsp;```-perm /6000``` will return files with both GUID and SUID set<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In our case it'll return file readable and writable by **at least** the owner, group or others<br/>
 * ```-size <XXX>```can be:<br/>
 &nbsp;&nbsp;&nbsp;```200<suffix>``` will matches **equal** to 200<br/>
