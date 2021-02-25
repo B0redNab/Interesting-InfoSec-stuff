@@ -19,10 +19,11 @@
 *Sometimes it's not possible to use tools to automate SQL injection, so you'll need to know how to test manually if a webapp if vulnerable, cf [OWASP WebSec testing guide](https://owasp.org/www-project-web-security-testing-guide/stable/)*
 <br/>
 
-#### Hash cracking<br/>
+#### Hash/password cracking<br/>
 * ```hashid```&nbsp;&nbsp;&nbsp;&nbsp;Identify hash used to encrypt data, with ```-m``` it'll return the hastcat mode
 * [```hashcat```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/hashcat.md)&nbsp;&nbsp;&nbsp;&nbsp;Password recovery tool
 * [```John The Reaper```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/JohnTheReaper.md)
+* [```Hydra```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/hydra.md)
 #### Pentest framework<br/>
 * [```metasploit```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/metasploit.md)
 
