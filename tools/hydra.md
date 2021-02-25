@@ -7,5 +7,6 @@ Usefull options:<br/>
 Hydra supported several "services" (ex: gtp, ssh, rdp, smb, http-post-form, etc). Full cmd example:<br>
  ```hydra <ip> -l admin -P <path_to_pwd_list> <service> "/path/to/login/page.php:<randomstringusername=^USER^randomstringpassword=^PASS^stringlogin=login:login failed>```
 <br/>
-**Tips**: as the authent request may differ because of the techno behind the web server or just the authent process, use burp suite to intercept the login request then paste the request into your hydra cmd and "mark" the username, password and login result
-within the request w/ ^USER^ ^PASS^ and Login failed
+
+__Tips:__ *as the authent request may differ because of the techno behind the web server or just the authent process* <br/> use burp suite to intercept the login request then paste the request into your hydra cmd and "mark" the username, password and login result
+within the request with ```^USER^``` ```^PASS^``` and ```Login failed```
