@@ -42,7 +42,6 @@ Once you've run an exploit, ideally it'll give you either a regular command shel
 ```getuid``` will return the user we're currently connected as
 
 <br/>
-<br/>
 
 ## Usefulls modules / payloads
 ```set PAYLOAD windows/meterpreter/reverse_tcp``` very common reverse shell
