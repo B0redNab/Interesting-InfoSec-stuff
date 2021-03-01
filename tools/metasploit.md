@@ -43,6 +43,7 @@ Once you've run an exploit, ideally it'll give you either a regular command shel
 
 <br/>
 <br/>
+
 ## Usefulls modules / payloads
 ```set PAYLOAD windows/meterpreter/reverse_tcp``` very common reverse shell
 ```run post/windows/gather/checkvm``` to check if the remote host is running on a VM or not
