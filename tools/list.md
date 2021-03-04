@@ -1,7 +1,7 @@
 # List of tools / cmd<br/>
 *A list to keep "track" of tool(s) i discovered / i'm discovering thanks to challenge's website / wargame / CTFs*<br/>
 ## Already "known"
-* ```nmap```
+* [```nmap```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/nmap.md)
 * ```nc```
 * ```ZAP```
 
