@@ -26,6 +26,7 @@
 * [```Hydra```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/hydra.md)
 #### Pentest framework<br/>
 * [```metasploit```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/metasploit.md)
+* [```msfvenom```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/msfvenom.md)
 
 <br/>
 
