@@ -41,3 +41,4 @@
 #### Samba<br/>
 * [```smbmap```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/smbmap.md)&nbsp;&nbsp;&nbsp;&nbsp;Enumerate [samba](https://www.samba.org/samba/docs/SambaIntro.html) share drives across an entire domain
 * [```smbclient```](https://github.com/B0redNab/Interesting-InfoSec-stuff/blob/master/tools/smbclient.md)&nbsp;&nbsp;&nbsp;&nbsp;Similar to ```smbmap``` but allows you to have a **interactive prompt**
+* ```enum4linux```
